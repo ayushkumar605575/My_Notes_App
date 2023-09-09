@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done">Done</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="profile_description">Profile</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>

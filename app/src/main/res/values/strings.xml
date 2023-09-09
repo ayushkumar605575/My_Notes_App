@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="email_hint">Email or Username</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="password_confirm_hint">Confirm Password</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="my_tools">My Tools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_notes">My Notes</string>
+    <string name="fav_fragment">This is Fav Fragment</string>
+    <string name="tools_fragment">This is Tools Fragment</string>
+    <string name="logout_btn">Sign Out</string>
+    <string name="description">"   Description"</string>
+    <string name="title">"   Title"</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit">Edit</string>
+    <string name="choose_avatar">Choose Avatar</string>
+    <string name="select_hair_style">Select Hair style</string>
+    <string name="select_eye_style">Select Eye style</string>
+    <string name="select_mouth_style">Select Mouth style</string>
+    <string name="done">Done</string>
+    <string name="enter_a_title">Enter a Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="profile_description">Profile</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
