@@ -199,6 +199,12 @@ class SignUpActivity : AppCompatActivity() {
             signupBinding.etPassword.clearFocus()
             signupBinding.etConfirmPassword.clearFocus()
             signupBinding.etEmail.clearFocus()
+            Toast.makeText(
+                this,
+                "Signing In!",
+                Toast.LENGTH_SHORT
+            )
+                .show()
 
             Handler(mainLooper).postDelayed({
                 try {

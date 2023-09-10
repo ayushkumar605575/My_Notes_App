@@ -38,6 +38,13 @@ class SignInActivity : AppCompatActivity() {
 
         signInBinding.btnSignIn.setOnClickListener {
             signInBinding.etPassword.clearFocus()
+            Toast.makeText(
+                this,
+                "Signing In!",
+                Toast.LENGTH_SHORT
+            )
+                .show()
+
 
             Handler(mainLooper).postDelayed({
                 try {
